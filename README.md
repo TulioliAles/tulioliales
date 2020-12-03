@@ -3,7 +3,7 @@
 <!--
 **TulioliAles/tulioliales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou programador e busco me desenvolver cada vez na stack .NET e Angular:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
