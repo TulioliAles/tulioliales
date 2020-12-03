@@ -1,6 +1,6 @@
 ### Olá para todos(as)! 👋
 
-##Sou programador e busco me desenvolver cada vez na stack .NET e Angular:
+Sou programador e busco me desenvolver cada vez na stack .NET e Angular:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
