@@ -4,11 +4,10 @@
 ### Olá para todos(as)! 👋
 
 Sou programador e busco me desenvolver cada vez na stack .NET e Angular.
-Mas também conheço um pouco de Java, Javascript...
 
-- 🔭 Atualmente trabalho como programador de sistemas.
+- 🔭 Atualmente trabalho como Software Developer.
 
-- 🌱 Estou estudando .NET Framework MVC, .NET Core e .NET 5 (C#, Asp Net, Entity Framework, Identity Framework) e Angular JS / Angular 2+.
+- 🌱 Atuo com .NET Framework MVC, .NET Core (C#, Asp Net, Entity Framework, Identity Framework) e Angular 2+.
 
 - 👯 Busco num futuro próximo colaborar com a comunidade opensource.
 
